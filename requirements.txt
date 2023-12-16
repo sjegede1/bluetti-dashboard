@@ -1,7 +1,2 @@
-async-timeout==4.0.3
-asyncio-mqtt==0.16.2
-bleak==0.20.2
-bleak-winrt==1.2.0
 -e git+https://github.com/sjegede1/bluetti_mqtt#egg=bluetti_mqttcrcmod==1.7
-paho-mqtt==1.6.1
-typing-extensions==4.7.1
+
