@@ -1,0 +1,4 @@
+[console_scripts]
+bluetti-discovery = bluetti_mqtt.discovery_cli:main
+bluetti-logger = bluetti_mqtt.logger_cli:main
+bluetti-mqtt = bluetti_mqtt.server_cli:main
