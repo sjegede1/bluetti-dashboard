@@ -1,11 +1,11 @@
 ### First create a virtual env
 ```
-python -m venv [ENVIRONMENT NAME]
+python -m venv virtualenv
 ```
 
 ### Then activate the environment 
 ```
-source [ENVIRONMENT NAME]/Scripts/activate
+source virtualenv/Scripts/activate
 ```
 
 ### Install bluetti_mqtt from my fork
